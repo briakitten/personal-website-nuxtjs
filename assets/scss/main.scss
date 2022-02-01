@@ -1,0 +1,76 @@
+@import "~bulma/sass/utilities/_all";
+
+$primary: #7270f6;
+$text: $primary;
+$link: $primary;
+$navbar-item-hover-background-color: #c7b4fd;
+$navbar-divider-background-color: rgb(176, 124, 245);
+$navbar-box-shadow-color: rgb(143, 142, 253);
+$navbar-background-color: #dcd0ff;
+$footer-background-color: #c7b4fd;
+$footer-color: #c7b4fd;
+$body-background-color: #dcd0ff;
+
+$content-heading-color: $text;
+$card-color: #c7b4fd;
+$card-background-color: #c7b4fd;
+$card-shadow: 0 2px 3px rgba(rgb(143, 142, 253), 0.8), 0 0 0 1px rgba($black, 0.1);
+$card-header-padding: 0.75rem 0.75rem;
+
+@import "~bulma";
+
+@import "~buefy/src/scss/buefy";
+
+* {
+    font-family: Menlo;
+    color: #7270f6
+    //background-color: #dcd0ff;
+}
+
+hr {
+    background-color: #b4b3ff;
+}
+
+a {
+    text-decoration: underline;
+}
+
+.navbar {
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+b-navbar-item {
+    display: none;
+
+}
+
+strong { color: #7270f6; }
+code { color: #7270f6;}
+tr { color: #7270f6; }
+.title { color: #7270f6 }
+.content { text-align: left; }
+.detail {
+    text-align: left;
+}
+.posts {
+    text-align: center;
+}
+p {
+    margin-bottom: 15px;
+}
+p:last-of-type {
+    margin-bottom: 0px;
+}
+
+/*
+
+a {
+    text-decoration: none;
+    color: rgb(69, 41, 192);
+    box-shadow: inset 0 -2px 0 hsla(244, 100%, 69%, 0.6);
+}
+a:hover {
+    color: rgb(69, 41, 192);
+    box-shadow: inset 0 -1.2em 0 hsla(202, 100%, 66%, 0.6);
+}*/

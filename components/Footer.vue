@@ -5,7 +5,7 @@
             <b>
             This website was built by Bria Katrina using Vue.js.
             <br>
-            <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">(View the Vue Source?)</a>
+            <a href="https://github.com/BriaKatrina/personal-website-nuxtjs" target="_blank" rel="noopener noreferrer">(View the Vue Source?)</a>
             </b>
             <br><br>
             <span >

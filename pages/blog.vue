@@ -5,10 +5,9 @@
                 Latest Posts&nbsp;&nbsp;&nbsp;↓(◕‿◕)↴
             </h3>
 
-            <div class="card m-6 p-2" v-for="article of articles" :key="article.name">
-                <nuxt-link style="text-decoration:none;" :to="{name: 'posts-slug', params: {slug: article.slug} }">
-                    <div class="columns">
-                        <img class="card-content column is-4" :src="require(`~/assets/${article.img}`)" />
+            <div class="card m-6 p-4" v-for="article of articles" :key="article.name">
+                <nuxt-link style="text-decoration:none;" :to="{name: 'slug', params: {slug: article.slug} }">
+                    <div class="columns pl-3">
                         <div class="column">
                             <h1 style="margin-bottom: 0px;">{{article.title}}</h1>
                             <span>{{article.date}}</span>
@@ -43,6 +42,8 @@ export default {
         },
     }
 }
+
+//<img class="card-content column is-4" :src="require(`~/assets/${article.img}`)" />
 </script>
 
 <style>

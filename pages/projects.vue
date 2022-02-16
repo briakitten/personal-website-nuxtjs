@@ -6,11 +6,10 @@
                     Game Jams
                 </h1>
                 <p class="subtitle has-text-left">
-                    I have made MANY gam!!!!!! so many dsfkjddgewrefwgfgrkl. I love to make vibeogames they are
-                    super fun to mak  a lot, like aLL THE TIME KIND OF A LOT I CAN'T STOP MAKING GAMES IT'S JUST
-                    SO FUN I JUST CAN'T STOP AAAAAAAAAAAAAAAAAAA A  A  A <br><br><br>
+                    While I've been learning game development over the last few years, I've also participated in game
+                    jams when I can! A few of the tools I've used and learned are Unity and GameMaker Studio 2. <br><br><br>
 
-                    Find my game jams........ <a href="https://briakitten.itch.io/" target="_blank" rel="noopener noreferrer">here!!!</a>
+                    You can find a few of those games... <a href="https://briakitten.itch.io/" target="_blank" rel="noopener noreferrer">here!!!</a>
 
                 </p>
             </div>

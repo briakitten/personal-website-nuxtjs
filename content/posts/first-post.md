@@ -3,15 +3,20 @@ title: This website is using Vue.js...?
 description: The programming tools used here (in this blog), such as the nuxt content module, Vue.js and more ...
 slug: first-post
 img: blog1.png
-date: January 29, 2022
+date: February 21, 2022
 index: 1
 
 ---
 
-**In physics,** string theory  *italicized text* is a theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings. String theory describes how these strings propagate through space and interact with each other. On distance scales larger than the string scale, a string looks just like an ordinary particle, with its mass, charge, and other properties determined by the vibrational state of the string. In string theory, one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries the gravitational force. Thus, string theory is a theory of quantum gravity.
+As mentioned in the title, I used Vue.js to build this website. This is what's called a "single-page application," where it dynamically changes and reacts to the user. More simply though, it's a library for Javascript. Modern web application development tends to use tools like this (such as React.js and Angular), since it is relatively easy to scale and has a lot of tools support.
 
-String theory is a broad and varied subject that attempts to address a number of deep questions of fundamental physics. String theory has contributed a number of advances to mathematical physics, which have been applied to a variety of problems in black hole physics, early universe cosmology, nuclear physics, and condensed matter physics, and it has stimulated a number of major developments in pure mathematics. Because string theory potentially provides a unified description of gravity and particle physics, it is a candidate for a theory of everything, a self-contained mathematical model that describes all fundamental forces and forms of matter. Despite much work on these problems, it is not known to what extent string theory describes the real world or how much freedom the theory allows in the choice of its details.
+**Could this have just been done in JQuery?** ...Probably, but I was really eager to get started and felt like Vue.js would be a good start.
 
-String theory was first studied in the late 1960s as a theory of the strong nuclear force, before being abandoned in favor of quantum chromodynamics. Subsequently, it was realized that the very properties that made string theory unsuitable as a theory of nuclear physics made it a promising candidate for a quantum theory of gravity. The earliest version of string theory, bosonic string theory, incorporated only the class of particles known as bosons. It later developed into superstring theory, which posits a connection called supersymmetry between bosons and the class of particles called fermions. Five consistent versions of superstring theory were developed before it was conjectured in the mid-1990s that they were all different limiting cases of a single theory in 11 dimensions known as M-theory. In late 1997, theorists discovered an important relationship called the anti-de Sitter/conformal field theory correspondence (AdS/CFT correspondence), which relates string theory to another type of physical theory called a quantum field theory.
+What I learned from this is that programming for Vue is a lot more different than anything else I've worked in. There is a lot of things that happen behind the scenes, and if it weren't for reading a lot of documentation and learning resources, I probably wouldn't have been able to get into it as quickly as I have. Before making this website, my knowledge of HTML/CSS was very minimal, and I would have never thought I would go into learning anything front-end.
+
+Programming in Javascript nothing new to me though. I have used similar syntax related languages for years (arguably almost a decade if you count C# and Java). Surprisingly, GameMaker Studio 2's language (GML) made it relatively easy to learn Javascript last year.
+
+Aaaanyway, applying my knowledge here has been very fulfilling! I hope to continue adding stuff here over the years, perhaps with more to add to my portfolio along the way.
 
 <v-img src="pone.jpg" alt="Scripts"></v-img>
+(art by [Anina!](https://twitter.com/NinnyDraws))

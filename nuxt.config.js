@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'website-v2',
+    title: 'Bria Katrina',
     htmlAttrs: {
       lang: 'en'
     },

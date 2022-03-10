@@ -5,6 +5,13 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  // Manually generate article pages
+  generate: {
+    routes: [
+      '/first-post',
+    ]
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Bria Katrina',

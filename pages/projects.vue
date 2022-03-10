@@ -23,7 +23,7 @@
         <div class="columns">
             <div class="column">
                 <h1 class="title">
-                    Personal/Announced Projects...
+                    Other Projects...
                 </h1>
                 <p class="subtitle has-text-left">
                     A demo will be released soon for my personal project! And perhaps more to come...?

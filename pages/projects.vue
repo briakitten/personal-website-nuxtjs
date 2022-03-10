@@ -2,7 +2,7 @@
     <section class="container is-max-desktop">
         <div class="columns">
             <div class="column">
-                <h1 class="title">
+                <h1 class="title pb-4">
                     Game Jams
                 </h1>
                 <p class="subtitle has-text-left">
@@ -22,7 +22,7 @@
         <hr>
         <div class="columns">
             <div class="column">
-                <h1 class="title">
+                <h1 class="title pb-4">
                     Other Projects...
                 </h1>
                 <p class="subtitle has-text-left">

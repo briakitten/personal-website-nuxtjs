@@ -15,8 +15,7 @@
             </div>
             <div class="column">
                 <figure class="image container is-256x256">
-                <img src="~/assets/puter.jpg">
-                (fanart meme by <a href="https://www.instagram.com/yukkitheartist/"  target="_blank" rel="noopener noreferrer">Yukkimons</a>)
+                <img src="~/assets/gamejams.png">
                 </figure>
             </div>
         </div>
@@ -24,18 +23,15 @@
         <div class="columns">
             <div class="column">
                 <h1 class="title">
-                    MOAR Games
+                    Personal/Announced Projects...
                 </h1>
                 <p class="subtitle has-text-left">
-                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA̷A̶A̷A̴A̸A̸A̶A̴A̵A̴A̷A̶͔̣̺͆Ả̵̯̟̼̟͆́͊A̵̩͔̘͝ͅĀ̵̻̝̦̂Å̴̮͈̘̏ͅA̴͙̪͍̾Ạ̵̳̿̾̏͋A̸̛̻͝Â̵͙̥Å̷͍̟͗À̴͓̓̍̆Ả̶͉̤̜̰͓̜͍̙̳̘͈̪͇̯̭̍͒̚A̸̢̦͗̽Ą̶͍͓͓̳̦̰̻̣̔̓̌͗̒̑̌Ḁ̸̡̼̗͖͇͕͍̻̜͍̙̲̹̽̿͒̈́̓̏̈́͜A̶̡̢̟̖̳̖̱̪͙̙̲̮̹̝̅͜ͅA̴͉̖̘͆͠Ḁ̸̧̡̺͇̞̝̹̖̠͔͔̖̩̬̪̍̔̚A̵͍̖̔͆͌̄̆̓̀̈́̃̊̇̕͝͝A̷̧̺̤̦͇̤͉̱͙̫͖̻̪̜͒͜ͅA̶̝͚͍͉͙͛̀̒͂͛̅͆͂͜͝A̷̬̝̙̩͚̐̓̓̆͌̊͒͌̈̅́̿͒̌̽̉̀̿̕A̷̧̧̛͚̠̠̲̟͓̙̤̤͔̞̙̝̙̘̣̦̖̰͗̈̋̂̉͆͜Ä̵̢̢̦̳̯̪̮̯̲̲͖̬̟̲͈͓͎̟̝̟̲̗̣̟͚͚̝̣̓̌̔͑̎͌͌͛̈́̿̀̓̃͊͗͋̑͐̈́̐́̑͌͘̚̕͜͝͝A̵̧̡̻̹̘̱̘͈͍̺̺̗͉̳̅̂̉̑͑̏̂̒̍͐̓͊͊̉̉͛̌̈̽͑͂̚͘͘̚͠͠͠͠A̶͎̭̣̹̮̰̰͕̞͗̆̉̂̔͛̏͛́̌̈́̀̋̎̍̒͋̑̓͌͊͛̈́̚̕A̴̢̪͙̗̟̩̪̯̠̳̭̞͉̫̪͍̥̖͎̟̼̞͈͑̈́̽͐͒͐ͅͅA̴̡̺̝̱͚̲͎̟̰̙̠̩͚̺̹̭͇͍̬̺̗̠̰̗̩͓͍̔̔̎͐͂͆̐́̇͗̕͘͜͜͜A̴̡͍͍͙̲̝̤͕̹̖̱͕̩̞̮͇̥̺̪̮̻͑̌A̷̡̧̢̢̨̛͈͕̭̙̳̮̬͈̯̩̳̼͍̰̩̺̩̭͖̘̬̻͙͕̞̟͕̼͒̓̒̏̆͐̈͌͑̈͘͜͠A̶̡̦͕̩̦̱͈̠̓̆̀̽̎͊̐̎̎̃̊̏͋͂̋̆̒̇̑́̏̐̓͌̕̕͘̚͠͝͠Ä̸̢̨̛̙͖̜̳̦̪̞̣̹͚͈̲̻̭̼͙͉̺̞̰̩̗̯̻̟́̉͑̎̃͐̍̆͆̈̔̔̓̐̄̔͌̌͗̄̿̓͋̚̕͘<br>
-                    <br><br><br><br><br><br><br><br>
-
-                    ...I'm sorry for the chaos in this page, it will be updated soon.
+                    A demo will be released soon for my personal project! And perhaps more to come...?
                 </p>
             </div>
             <div class="column">
                 <figure class="image container is-256x256">
-                <img src="https://bulma.io/images/placeholders/128x128.png">
+                <img src="~/assets/mystery.png">
                 </figure>
             </div>
         </div>

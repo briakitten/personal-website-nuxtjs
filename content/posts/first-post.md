@@ -2,13 +2,12 @@
 title: This website is using Vue.js...?
 description: The programming tools used here (in this blog), such as the nuxt content module, Vue.js and more ...
 slug: first-post
-img: blog1.png
 date: February 21, 2022
 index: 1
 
 ---
 
-As mentioned in the title, I used Vue.js to build this website. This is what's called a "single-page application," where it dynamically changes and reacts to the user. More simply though, it's a library for Javascript. Modern web application development tends to use tools like this (such as React.js and Angular), since it is relatively easy to scale and has a lot of tools support.
+I used Vue.js to build this website. This is what's called a "single-page application," where it dynamically changes and reacts to the user. More simply though, it's a library for Javascript. Modern web application development tends to use tools like this (such as React.js and Angular), since it is relatively easy to scale and has a lot of tools support.
 
 **Could this have just been done in JQuery?** ...Probably, but I was really eager to get started and felt like Vue.js would be a good start.
 

@@ -9,6 +9,7 @@ export default {
   generate: {
     routes: [
       '/first-post',
+      '/chinchilla-game'
     ]
   },
 

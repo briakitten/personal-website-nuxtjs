@@ -3,7 +3,7 @@
         <div class="p-2"></div>
         <b-navbar class="container is-max-desktop" shadow=true>
             <template slot="brand">
-                <b-navbar-item tag="nuxt-link" to="/" style="text-decoration:none;">>briakitten</b-navbar-item>
+                <b-navbar-item tag="nuxt-link" to="/" style="text-decoration:none; color: #6765f3;">>briakitten</b-navbar-item>
             </template>
             <template slot="end">
                 <b-navbar-item tag="nuxt-link" to="/" style="text-decoration:none;">/____</b-navbar-item>

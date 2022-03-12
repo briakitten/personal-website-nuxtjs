@@ -15,14 +15,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Bria Katrina',
+    title: 'Briakitten',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Programmer, pixel artist, and sometimes musician. Aka Briakitten, developer for heartrift.' },
+      { hid: 'description', name: 'description', content: 'Programmer, pixel artist of the Créu Cat community, and sometimes musician. Developer for heartrift.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [

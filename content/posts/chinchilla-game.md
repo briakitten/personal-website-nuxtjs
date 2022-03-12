@@ -1,6 +1,6 @@
 ---
-title: How I made my first solo game jam
-description: The game "What It's Like to be Reincarnated as a Chinchilla" that was made in 48 hours.
+title: How I made my first solo game (for a game jam)
+description: "What It's Like to be Reincarnated as a Chinchilla," a game made in 48 hours.
 slug: chinchilla-game
 date: March 11, 2022
 index: 1

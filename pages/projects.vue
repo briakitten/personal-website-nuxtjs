@@ -6,17 +6,16 @@
                     Game Jams
                 </h1>
                 <p class="subtitle has-text-left">
-                    While I've been learning game development over the last few years, I've also participated in game
-                    jams when I can! A few of the tools I've used and learned are Unity and GameMaker Studio 2. <br><br><br>
+                    I started building games since high school in 2013, and continue to through my projects and... also game jams! The tools I use are Unity and GameMaker Studio 2. <br><br>
 
                     You can find a few of those games... <a href="https://briakitten.itch.io/" target="_blank" rel="noopener noreferrer">here!!!</a>
 
                 </p>
             </div>
             <div class="column">
-                <figure class="image container is-256x256">
-                <img src="~/assets/gamejams.png">
-                </figure>
+                <a class="image container is-256x256" href="https://briakitten.itch.io/" target="_blank" rel="noopener noreferrer">
+                    <img src="~/assets/gamejams.png" >
+                </a>
             </div>
         </div>
         <hr>
@@ -26,13 +25,13 @@
                     Other Projects...
                 </h1>
                 <p class="subtitle has-text-left">
-                    A demo will be released soon for my personal project! And perhaps more to come...?
+                    A demo will be released soon for my personal project (heartrift)! And perhaps more to come...?
                 </p>
             </div>
             <div class="column">
-                <figure class="image container is-256x256">
-                <img src="~/assets/mystery.png">
-                </figure>
+                <a class="image container is-256x256" href="https://briakitten.itch.io/heartrift" target="_blank" rel="noopener noreferrer">
+                    <img src="~/assets/mystery.png">
+                </a>
             </div>
         </div>
     </section>

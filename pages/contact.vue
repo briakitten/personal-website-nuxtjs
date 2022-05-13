@@ -1,6 +1,6 @@
 <template>
     <div>
-        For business inquiries, you can reach out to me at briakatrina@gmail.com
+        You can contact me via my social media links below. >>
     </div>
 </template>
 

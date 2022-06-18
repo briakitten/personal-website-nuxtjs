@@ -2,7 +2,7 @@
     <section class="container is-max-desktop">
         <div class="content">
             <h3 class="posts is-text-center">
-                Latest Posts&nbsp;&nbsp;&nbsp;↓(◕‿◕)↴
+                Latest Posts&nbsp;&nbsp;&nbsp;__φ(．．)
             </h3>
 
             <div class="card m-6 p-4" v-for="article of articles" :key="article.name">

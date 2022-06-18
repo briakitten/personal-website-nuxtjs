@@ -1,5 +1,5 @@
 ---
-title: How I made my first solo game in 48 hours
+title: How I made a game in 48 hours
 description: "The game: What It's Like to be Reincarnated as a Chinchilla... from a local game jam!"
 img: blog2.png
 slug: chinchilla-game

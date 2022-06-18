@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "jsx": "preserve",
     "baseUrl": ".",
     "paths": {
+      "three-full": ["node_modules/@types/three"],
       "~/*": ["./*"],
       "@/*": ["./*"],
       "~~/*": ["./*"],

@@ -9,7 +9,7 @@
                     </h1>
                     <p class="subtitle is-5">
                         I am a game programmer with experience in web development. I love science, space, VR...
-                        and weird niche indie games.<br/><br />Click on the TV to find what I've been working on.
+                        and weird niche indie games.<br/><br />Click on the TV for my game, heartrift!
                     </p>
                     <br><br>
                     <div class="columns">

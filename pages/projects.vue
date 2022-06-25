@@ -1,5 +1,5 @@
 <template>
-    <section class="container is-max-desktop">
+    <section class="container px-6 mt-6 mb-6 is-max-desktop">
         <!-- <div class="columns pb-6">
                 <ThreeGames />
             </div> -->

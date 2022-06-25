@@ -1,5 +1,5 @@
 <template>
-    <section class="container is-max-desktop">
+    <section class="container px-6 mt-6 mb-6 is-max-desktop">
         <div class="content">
             <h3 class="posts is-text-center">
                 Latest Posts&nbsp;&nbsp;&nbsp;__φ(．．)

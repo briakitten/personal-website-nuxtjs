@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <div class="content has-text-centered">
+        <div class="content has-text-centered mb-6">
 
             <b>
             This website was built using Vue.js.
